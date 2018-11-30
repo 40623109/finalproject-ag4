@@ -4,7 +4,3 @@
 倉儲:https://github.com/mdecadp2018/finalproject-ag4
 
 網站:https://mdecadp2018.github.io/finalproject-ag4
-
-部落格:https://mdecadp2018.github.io/finalproject-ag4/blog
-
-投影片:https://mdecadp2018.github.io/finalproject-ag4/reveal
